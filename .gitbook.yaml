@@ -1,6 +1,6 @@
 --- 
 redirects: 
-  previous/page: new-folder/page.md
+  previous/page: docs/page.md
 root: ./
 ​structure: 
   readme: README.md
